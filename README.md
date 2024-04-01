@@ -40,7 +40,7 @@ git clone git@github.com:ed-edgar-2308/price-comparison-table.git
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ralph**
+👤 **Edgar**
 
 - GitHub: [Edgar](https://github.com/ed-edgar-2308)
 - Twitter: [Edgar](https://twitter.com/)
