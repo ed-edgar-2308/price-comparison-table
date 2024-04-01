@@ -18,7 +18,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Price Comparison Table](https://ralph2308s.github.io/price-comparison-table/)
+- [Price Comparison Table](https://ed-edgar-2308.github.io/price-comparison-table/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```
-git clone git@github.com:ralph2308s/price-comparison-table.git
+git clone git@github.com:ed-edgar-2308/price-comparison-table.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -42,9 +42,9 @@ git clone git@github.com:ralph2308s/price-comparison-table.git
 
 👤 **Ralph**
 
-- GitHub: [ralph2308s](https://github.com/ralph2308s)
-- Twitter: [ralph2308s](https://twitter.com/ralph2308s)
-- LinkedIn: [ralph2308s](https://www.linkedin.com/in/ralph2308s/)
+- GitHub: [Edgar](https://github.com/ed-edgar-2308)
+- Twitter: [Edgar](https://twitter.com/)
+- LinkedIn: [Edgar](https://www.linkedin.com/in/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
